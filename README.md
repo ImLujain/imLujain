@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **web3, blockchain, smart contract**
 
-- 💬 Ask me about **python, flask, Raspberry pi**
+- 💬 Ask me about **python, flask, Raspberry pi, web3, blockchain**
 
 - 📫 How to reach me **lujaindev@gmail.com**
 
