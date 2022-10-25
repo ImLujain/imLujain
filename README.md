@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lujain</h1>
 <h3 align="center">A passionate Developer</h3>
 
-- 🌱 I’m currently learning **web3, blockchain, smart contract**
+- 🌱 I’m currently learning **IOT, Cybersecurity**
 
-- 💬 Ask me about **python, flask, Raspberry pi, web3, blockchain**
+- 💬 Ask me about **python, flask, Raspberry pi, Cybersecurity, IOT**
 
 - 📫 How to reach me **lujaindev@gmail.com**
 
