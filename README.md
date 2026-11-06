@@ -1,16 +1,43 @@
-<h1 align="center">Hi 👋, I'm Lujain</h1>
-<h3 align="center">A passionate Developer</h3>
+<h1 align="center">Hi, I'm Lujain 👋</h1>
+<h3 align="center">Cybersecurity & threat researcher · AI/ML for security · Head of AI & Technology Development</h3>
 
-- 🌱 I’m currently learning **IOT, Cybersecurity**
+I've spent 9+ years in security: vulnerability research, malware analysis, reverse engineering, and penetration testing. These days most of my work sits where offensive security meets AI — building fuzzing frameworks and ML detection systems that surface attack behaviour signature-based tools miss, and leading the technology side of a product company.
 
-- 💬 Ask me about **python, flask, Raspberry pi, Cybersecurity, IOT**
+### Currently
 
-- 📫 How to reach me **lujaindev@gmail.com**
+- 🔬 **Senior Information Security Researcher** — vulnerability discovery, AI/ML-enhanced fuzzing, proof-of-concept exploit development, and risk reporting
+- 🧭 **Head of AI & Technology Development @ Metafare** — technology roadmap, engineering delivery, security built into architecture decisions
+- 🎓 **M.Sc. Cyber Security, King Saud University (2024)** — research on AI-powered privacy and browser-fingerprinting defense
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/lujainreads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lujainreads" height="30" width="40" /></a> -->
-</p>
+### Things I've built
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+| Project | What it is |
+| --- | --- |
+| [mcp-trustcheck](https://github.com/ImLujain/mcp-trustcheck) | Read-only static security auditor for Model Context Protocol client configs and tool catalogues. Never executes a command, never connects to a server, never prints a secret — enforced by tests, mapped to the OWASP MCP Top 10. |
+| [privacy-guard](https://github.com/ImLujain/privacy-guard) | Local-first Chrome extension that makes web tracking and browser fingerprinting visible: tracker detection, property-access auditing, and fingerprint randomization. Archived on Zenodo ([software](https://doi.org/10.5281/zenodo.22048255), [dataset](https://doi.org/10.5281/zenodo.22050278)). |
+| [Financial-Concierge](https://github.com/ImLujain/Financial-Concierge) | Multi-agent financial assistant built with Google's Agent Development Kit and the Agent-to-Agent protocol. |
+| [Pharma_Chain](https://github.com/ImLujain/Pharma_Chain) | Blockchain-based drug supply-chain tracking. |
+| [Password-Management-System](https://github.com/ImLujain/Password-Management-System) | Encrypted password vault, an early Python project. |
+| [SLAE](https://github.com/ImLujain/SLAE) · [SPSE](https://github.com/ImLujain/SPSE) | Shellcode and Python security exercises from the SecurityTube Linux Assembly Expert and Python Security Expert certifications. |
+
+Also: an explainable ML intrusion detection system for IoT networks, a multi-agent AI model router, and an AI help assistant that placed 4th at the Absher Hackathon.
+
+### Research
+
+- **XAI-Driven Intrusion Detection for Internet of Things Networks.** Alqahtani, Alakeel, Abuhaimed. *Sensors* (MDPI), vol. 26, no. 17, 2026. [doi:10.3390/s26175437](https://doi.org/10.3390/s26175437)
+
+### Certifications
+
+OSCP · SANS SEC660 · eCRE · eCPPT · eJPT · SLAE · SPSE · Malware Analysis & Memory Forensics (Black Hat) · Windows Internals (OffensiveCon) · Application Security (Black Hat) · WiFi Penetration Testing (Pentester Academy)
+
+### Interests
+
+Fuzzing and exploit development · MCP and AI-agent security · explainable detection · browser privacy and fingerprinting · Windows internals · IoT security
+
+### Toolbox
+
+Python · C · Assembly · JavaScript/TypeScript · Java · PyTorch · TensorFlow · Linux · Docker · AWS · Google Cloud · Git/CI-CD · Arduino
+
+### Reach me
+
+📫 LujainDev@gmail.com · 🌐 [imlujain.com](https://imlujain.com) · 📍 Saudi Arabia
