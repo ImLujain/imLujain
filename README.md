@@ -1,43 +1,34 @@
 <h1 align="center">Hi, I'm Lujain 👋</h1>
-<h3 align="center">Cybersecurity & threat researcher · AI/ML for security · Head of AI & Technology Development</h3>
+<h3 align="center">I break things to understand them, then build things so they break less.</h3>
 
-I've spent 9+ years in security: vulnerability research, malware analysis, reverse engineering, and penetration testing. These days most of my work sits where offensive security meets AI — building fuzzing frameworks and ML detection systems that surface attack behaviour signature-based tools miss, and leading the technology side of a product company.
+Security person by trade, tinkerer by nature. I like poking at browsers, protocols, and AI agents to see what they quietly get up to when nobody is watching, and then writing tools that watch.
 
-### Currently
+### Stuff I'm into
 
-- 🔬 **Senior Information Security Researcher** — vulnerability discovery, AI/ML-enhanced fuzzing, proof-of-concept exploit development, and risk reporting
-- 🧭 **Head of AI & Technology Development @ Metafare** — technology roadmap, engineering delivery, security built into architecture decisions
-- 🎓 **M.Sc. Cyber Security, King Saud University (2024)** — research on AI-powered privacy and browser-fingerprinting defense
+- 🕵️ Finding out what a web page *really* knows about you
+- 🤖 AI agents, and the fun question of who they actually trust
+- 🧪 Fuzzing: throwing garbage at software until it tells a secret
+- 🔌 Raspberry Pi and Arduino projects that work perfectly until I plug them in
+- 🧠 Explainable ML, because "the model said so" is not a security finding
+- ☕ Reading, coffee, and shipping side projects at 1 a.m.
 
 ### Things I've built
 
-| Project | What it is |
+| Project | What it does |
 | --- | --- |
-| [mcp-trustcheck](https://github.com/ImLujain/mcp-trustcheck) | Read-only static security auditor for Model Context Protocol client configs and tool catalogues. Never executes a command, never connects to a server, never prints a secret — enforced by tests, mapped to the OWASP MCP Top 10. |
-| [privacy-guard](https://github.com/ImLujain/privacy-guard) | Local-first Chrome extension that makes web tracking and browser fingerprinting visible: tracker detection, property-access auditing, and fingerprint randomization. Archived on Zenodo ([software](https://doi.org/10.5281/zenodo.22048255), [dataset](https://doi.org/10.5281/zenodo.22050278)). |
-| [Financial-Concierge](https://github.com/ImLujain/Financial-Concierge) | Multi-agent financial assistant built with Google's Agent Development Kit and the Agent-to-Agent protocol. |
-| [Pharma_Chain](https://github.com/ImLujain/Pharma_Chain) | Blockchain-based drug supply-chain tracking. |
-| [Password-Management-System](https://github.com/ImLujain/Password-Management-System) | Encrypted password vault, an early Python project. |
-| [SLAE](https://github.com/ImLujain/SLAE) · [SPSE](https://github.com/ImLujain/SPSE) | Shellcode and Python security exercises from the SecurityTube Linux Assembly Expert and Python Security Expert certifications. |
+| [mcp-trustcheck](https://github.com/ImLujain/mcp-trustcheck) | Reads your MCP client configs and tells you which tools could run commands, touch files, or phone home. Never executes anything, never connects anywhere, never prints a secret. |
+| [privacy-guard](https://github.com/ImLujain/privacy-guard) | A local-first Chrome extension that shows you which trackers and fingerprinting scripts are watching you, and can hand them a fake device instead. |
+| [Financial-Concierge](https://github.com/ImLujain/Financial-Concierge) | A small team of AI agents that argue about stocks so you don't have to. |
+| [Pharma_Chain](https://github.com/ImLujain/Pharma_Chain) | Tracking medicine through a supply chain on a blockchain. |
+| [SLAE](https://github.com/ImLujain/SLAE) · [SPSE](https://github.com/ImLujain/SPSE) | Shellcode and Python security exercises from the days when I thought assembly was relaxing. |
 
-Also: an explainable ML intrusion detection system for IoT networks, a multi-agent AI model router, and an AI help assistant that placed 4th at the Absher Hackathon.
+### Random facts
 
-### Research
+- 🐍 Python is home, but I speak C and assembly when the situation gets serious
+- 🐧 Linux on everything that will take it
+- 🧩 I enjoy a good CTF more than most movies
+- 🔬 I once got a browser extension to recurse itself a thousand times and thought it was a logging bug
 
-- **XAI-Driven Intrusion Detection for Internet of Things Networks.** Alqahtani, Alakeel, Abuhaimed. *Sensors* (MDPI), vol. 26, no. 17, 2026. [doi:10.3390/s26175437](https://doi.org/10.3390/s26175437)
+### Say hi
 
-### Certifications
-
-OSCP · SANS SEC660 · eCRE · eCPPT · eJPT · SLAE · SPSE · Malware Analysis & Memory Forensics (Black Hat) · Windows Internals (OffensiveCon) · Application Security (Black Hat) · WiFi Penetration Testing (Pentester Academy)
-
-### Interests
-
-Fuzzing and exploit development · MCP and AI-agent security · explainable detection · browser privacy and fingerprinting · Windows internals · IoT security
-
-### Toolbox
-
-Python · C · Assembly · JavaScript/TypeScript · Java · PyTorch · TensorFlow · Linux · Docker · AWS · Google Cloud · Git/CI-CD · Arduino
-
-### Reach me
-
-📫 LujainDev@gmail.com · 🌐 [imlujain.com](https://imlujain.com) · 📍 Saudi Arabia
+📫 LujainDev@gmail.com · 🌐 [imlujain.com](https://imlujain.com)
