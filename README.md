@@ -27,7 +27,7 @@ Security person by trade, tinkerer by nature. I like poking at browsers, protoco
 - 🐍 Python is home, but I speak C and assembly when the situation gets serious
 - 🐧 Linux on everything that will take it
 - 🧩 I enjoy a good CTF more than most movies
-- 🔬 I once got a browser extension to recurse itself a thousand times and thought it was a logging bug
+- 🔬 My favourite bugs are the ones that look like typos for the first three hours
 
 ### Say hi
 
