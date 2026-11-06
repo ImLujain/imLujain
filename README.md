@@ -18,6 +18,7 @@ Security person by trade, tinkerer by nature, cat servant by appointment. I like
 
 | Project | What it does |
 | --- | --- |
+| [research-gap-discovery-agent](https://github.com/ImLujain/research-gap-discovery-agent) | Give it a research topic and it reads the literature, proposes what nobody has done yet, then tries to disprove its own ideas before it lets you see them. Every citation is a real paper, checked. |
 | [mcp-trustcheck](https://github.com/ImLujain/mcp-trustcheck) | Reads your MCP client configs and tells you which tools could run commands, touch files, or phone home. Never executes anything, never connects anywhere, never prints a secret. Like a very paranoid cat. |
 | [privacy-guard](https://github.com/ImLujain/privacy-guard) | A local-first Chrome extension that shows you which trackers and fingerprinting scripts are watching you, and can hand them a fake device instead. |
 | [Financial-Concierge](https://github.com/ImLujain/Financial-Concierge) | A small team of AI agents that argue about stocks so you don't have to. |
